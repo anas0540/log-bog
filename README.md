@@ -1,2 +1,2 @@
-# log-bog
-russerns log bog
+# Logbog Skabelon
+Logbog til elever i IT-fag.
